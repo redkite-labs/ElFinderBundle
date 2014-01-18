@@ -20,6 +20,5 @@
     "autoload": {
         "psr-0": { "RedKiteLabs\\ElFinderBundle": "" }
     },
-    "minimum-stability": "dev",
     "target-dir" : "RedKiteLabs/ElFinderBundle"
 }
